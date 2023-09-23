@@ -124,6 +124,7 @@ main {
 
 @media (max-width: 1080px) {
   .container {
+    margin-top: 36px;
     width: 100%;
   }
 }
@@ -142,5 +143,8 @@ main {
 
   .description-content > .paragraph {
     margin-bottom: 0.7rem;
+  }
+  .logo > img {
+    margin-top: 1.87rem;
   }
 }
