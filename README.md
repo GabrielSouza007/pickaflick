@@ -1,7 +1,7 @@
 <h1 align="center"> PickAFlick </h1>
 
 <h6 align="center"> 
-	If you want to preview the application, click <a href="#">here</a>.
+	If you want to preview the application, click <a href="https://pickaflick-gs.netlify.app/">here</a>.
 </h6>
 
 ## 💻 Project
