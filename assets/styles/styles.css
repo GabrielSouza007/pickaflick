@@ -95,10 +95,10 @@ main {
   cursor: pointer;
 }
 
-.button > button:hover {
+/*.button > button:hover {
   outline: 2.5px solid #c12a23;
   transition: 0.1s;
-}
+}*/
 
 .button > button > img {
   width: 35.56px;
