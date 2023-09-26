@@ -2,8 +2,6 @@ function searchMovies() {
   $(".container").empty();
 
   function gerarNumeroInteiroAleatorio(min, max) {
-    // Use Math.floor para arredondar o número para baixo e Math.random()
-    // para gerar um número aleatório entre [min, max].
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
