@@ -19,3 +19,4 @@ Made with ♥ by Gabriel :wave:
 - HTML
 - CSS
 - JavaScript
+- JQuery/Ajax
